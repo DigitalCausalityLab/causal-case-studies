@@ -1,0 +1,37 @@
+name: New Case Study
+description: Add a new case study for the Digital Causality Lab
+title: "[Title of Case Study]: "
+labels: ["title"]
+assignees:
+  - PhilippBach
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to the Digital Causality Lab!
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the topic of the case study
+      description: |
+        Please provide a clear and concise discription of the case study topic.
+    validations:
+      required: 
+  - type: textarea
+    id: idea
+    attributes:
+      label: Describe the idea for the data product
+      description: |
+        Please describe your ideas for a data product. What could serve as a suitable
+        medium to communicate the content of the case study, for example a blog post,
+        an app (like shiny), a package (R, Python etc.), a figure, a piece of art?
+  - type: textarea
+    id: resources
+    attributes:
+      label: Available resources and references
+      description: |
+        Please provide information on available resources below, for example,
+        code implementations, references to textbook chapters, blog posts, data resources etc.
+    validations:
+      required: true
