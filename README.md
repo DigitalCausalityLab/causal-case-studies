@@ -39,7 +39,7 @@ Currently, we have five categories for the case studies.
 
 ## Add a new case study
 
-To add your own idea for a case study, you can create a new issue. We prepared a template for you where you can describe the basic topic, ideas for the data product as well as links to references.
+To add your own idea for a case study, you can [create a new issue](https://github.com/DigitalCausalityLab/causal-case-studies/issues/new/choose). We prepared a template for you where you can describe the basic topic, ideas for the data product as well as links to references.
 
 ## Contributing to the DCL
 
