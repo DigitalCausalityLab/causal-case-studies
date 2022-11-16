@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: New Causality Case Study
+    url: https://github.com/DigitalCausalityLab/issues/new
+    about: Add a new case study which can serve as an inspiration for a new data product on causality.
